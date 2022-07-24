@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat4445" alt="rajat4445" /></a> </p>
 
-<img align="right" alt="GIF" width="420" height="360" src="<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/jakQnxhPwrbOdEZDul" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rollercoaster-chart-giflytics-jakQnxhPwrbOdEZDul">via GIPHY</a></p>">
-
 - 🌱 I’m currently learning **Statistics, Dashboarding and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
